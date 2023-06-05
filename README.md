@@ -3,7 +3,7 @@
 ```diff
 hi, im Pedro.
 
-@@mechanical engineer student.@@
+mechanical engineer student.
 + living in Rio de Janeiro, Brasil
 - 19 years old
 ! learning ai development
