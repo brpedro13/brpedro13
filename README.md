@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**brpedro13/brpedro13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im Pedro 🔮.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@advanced programming student.@@
++ living in tel aviv, israel.
+- 17 years old
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
+```
+------
+[jewdev](https://github.com/jewdev)
+Last Edited on: 03/09/2021
