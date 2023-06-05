@@ -7,7 +7,7 @@ hi, im Pedro .
 + living in Rio de Janeiro, Brasil.
 - 19 years old
 ! learning ai development
-# 📖 adm in facebook page "cebolitos lover", computer science
+# 📖 python, c, hardware
 ```
 ------
 
