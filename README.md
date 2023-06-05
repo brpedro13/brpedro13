@@ -1,13 +1,13 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im Pedro .
+hi, im Pedro.
 
 @@mechanical engineer student.@@
-+ living in Rio de Janeiro, Brasil.
++ living in Rio de Janeiro, Brasil
 - 19 years old
 ! learning ai development
-# 📖 python, c, hardware
+# python, c
 ```
 ------
 
