@@ -1,14 +1,13 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im Pedro 🔮.
+hi, im Pedro .
 
-@@advanced programming student.@@
-+ living in tel aviv, israel.
-- 17 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+@@mechanical engineer student.@@
++ living in Rio de Janeiro, Brasil.
+- 19 years old
+! learning ai development
+# 📖 adm in facebook page "cebolitos lover", computer science
 ```
 ------
-[jewdev](https://github.com/jewdev)
-Last Edited on: 03/09/2021
+[brpedro13](https://github.com/brpedro13)
