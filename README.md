@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Pedro Brasil</h1>
-<h4 align="center">A mechanical engineering student at CEFET/RJ</h4>
+<h4 align="center">A mechanical engineering student at CEFET/RJ, currently learning to develop AI models. Looking for a job or internship</h4>
 </div>
 
 <div align="center">
