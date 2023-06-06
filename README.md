@@ -55,7 +55,6 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/brpedro13/">
@@ -70,9 +69,7 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
           alt="brpedro13 :: Top Langs by commit" />
           </a>
         </p>
-</details>
-    <details open>
-  <summary><h3>statistic</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/brpedro13/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=brpedro13&show_icons=true&theme=gruvbox&hide_border=true" />
