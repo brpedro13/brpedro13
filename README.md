@@ -85,19 +85,15 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
   </div>    
 </details>
 
-<details open>
-  <summary>😒 Random stuff</summary>
+<details>
+<summary>😒 Random stuff</summary>
 <div  align="center"> 
 <samp>
 <h2 align="center"> just a big cebolitos </h2>
 </samp>
-  <img src="https://assets.vtex.app/unsafe/fit-in/568x568/center/middle/https%3A%2F%2Fsuperpao.vtexassets.com%2Farquivos%2Fids%2F311584%2FSalgadinho-Cebolitos-Pacote-60G.jpg%3Fv%3D1772256763" alt="humonguscebolitos">
+<img src="https://assets.vtex.app/unsafe/fit-in/568x568/center/middle/https%3A%2F%2Fsuperpao.vtexassets.com%2Farquivos%2Fids%2F311584%2FSalgadinho-Cebolitos-Pacote-60G.jpg%3Fv%3D1772256763" alt="humonguscebolitos">
 </div>
-
-  
-
 </details>
-<br/>
-</details> 
+
 
 -----
