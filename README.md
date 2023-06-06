@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
 </div>
 
   <hr>
-<details>
+
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
@@ -47,7 +47,7 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
     </p>
   </samp>
 </div>
-</details>
+
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
