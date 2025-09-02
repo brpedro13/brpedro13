@@ -61,6 +61,15 @@
     <td>Python, BeautifulSoup, Requests</td>
     <td><em>Projeto Interno</em></td>
   </tr>
+  <tr align="left">
+  <td>⛴️ Otimizador de Alocação Offshore</td>
+  <td>Desenvolvi uma ferramenta de automação ponta-a-ponta em Python na MODEC para otimizar a alocação de colaboradores em plataformas offshore. 
+      O sistema prevenia downtime operacional ao identificar lacunas de pessoal e enviar relatórios automatizados para fornecedores, 
+      eliminando erros manuais e agilizando a comunicação. 
+      <strong>O projeto trouxe ganhos significativos em eficiência e mitigação de riscos.</strong></td>
+  <td>Python, Selenium, Pandas, SMTPLIB</td>
+  <td><a href="https://github.com/brpedro13/Automated-Offshore-Resource-Allocation-Case-Study">Ver Repositório</a></td>
+</tr>
 </table>
 
 ---
