@@ -47,7 +47,7 @@
     <td>🏆 Assistente Virtual (AVIR) - Discord Bot</td>
     <td>Desenvolvi um assistente virtual para o servidor do Ramo Estudantil IEEE CEFET/RJ, facilitando o acesso a documentos e informações internas. <strong>O projeto conquistou o 2º lugar no IEEE SAC Awards Brasil.</strong></td>
     <td>Python, Discord.py</td>
-    <td><a href="[LINK-PARA-O-PROJETO-AVIR]">Ver Repositório</a></td>
+    <td><a href="LINK-PARA-O-PROJETO-AVIR]](https://github.com/WolfByte-CEFET-RJ/IA-AVIR">Ver Repositório</a></td>
   </tr>
   <tr align="left">
     <td>⚙️ Ferramenta de Automação para SAP PM</td>
