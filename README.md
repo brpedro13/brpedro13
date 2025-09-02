@@ -61,6 +61,15 @@
     <td>Python, BeautifulSoup, Requests</td>
     <td><em>Projeto Interno</em></td>
 </tr>
+  <tr align="left">
+  <td>📈 Sistema de Gestão de Portfólio</td>
+  <td>Desenvolvi uma aplicação web interativa na Statkraft para automatizar a análise de risco e performance de carteiras de energia. 
+      A solução reduziu em 98% o tempo de análise (de 6h para 5min), aumentou a precisão em 90% e se tornou a ferramenta primária de 
+      mais de 50 usuários, incluindo traders e gestores. 
+      <strong>O projeto trouxe agilidade estratégica em um mercado altamente volátil.</strong></td>
+  <td>Python, Dash/Plotly, Pandas, NumPy, Azure SQL</td>
+  <td><em>Projeto Interno</em></td>
+</tr>
 </table>
 
 ---
