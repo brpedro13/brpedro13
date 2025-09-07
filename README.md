@@ -24,10 +24,9 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,vba,sqlite,git,docker,vscode" />
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,sap" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,sklearn,sqlite,azure,git,docker,vscode" />
+  </a>
 </p>
 
 ---
